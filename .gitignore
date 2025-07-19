@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Task 2/testGoogle/x64
+/Task 2/TopTracker/x64
+/Task 2/TopTracker/.vs
+/Task 2/TopTracker/TopTracker/x64
